@@ -13,5 +13,5 @@ related to build system generators, new emerging concepts like virtual platforms
 The sessions listed over here are basically aimed at getting started with the under-listed
 topic of topic faster.
 
-1. [learn-cmake](https://github.com/VSPhaneendraPaluri/cmakeforneophytes)
+1. [learn-cmake](https://VSPhaneendraPaluri.github.io/cmakeforneophytes)
 
