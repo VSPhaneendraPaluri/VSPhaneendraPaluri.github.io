@@ -17,5 +17,5 @@ The sessions listed over here are basically aimed at getting started with the un
 
 You might want to checkout my different projects mentioned below.
 
-1. [learn-cmake]({{ site.url }}/cmakeforneophytes)
-2. [learn-py3]({{ site.url }}/learn-py3)
+1. [learn-cmake](/cmakeforneophytes)
+2. [learn-py3](/learn-py3)
