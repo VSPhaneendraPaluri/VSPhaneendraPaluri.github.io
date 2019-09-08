@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Inspirations
-permalink: /my-inspirations/
+title: Inspirations
+permalink: /inspirations/
 ---
 
 I'm an *avid follower* of the latest *electronics and communication* developments happening in and around us.
