@@ -13,13 +13,13 @@ Indian Space Research Organization | Indian Institute of Technology Roorkee
 
 |       My Gadget(s)       |    How It Looks Like ?   |
 |:------------------------:|:------------------------:|
-| BlueBoard ATMega Board   | ![ATmegaBoard]({{ site.repository-path }}/tree/{{ site.branch }}/images/blueboard-atmega.jpg)|
+| BlueBoard ATMega Board   | ![ATmegaBoard]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/blueboard-atmega.jpg?raw=true)|
 |:------------------------:|:------------------------:|
-| BlueBoard LPC2148 Board  | ![LPC2148Board]({{ site.repository-path }}/tree/{{ site.branch }}/images/blueboard-lpc2148.jpg)|
+| BlueBoard LPC2148 Board  | ![LPC2148Board]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/blueboard-lpc2148.jpg?raw=true)|
 |:------------------------:|:------------------------:|
-| Tri-axial Accelerometer  | ![3D Accelerometer]({{ site.repository-path }}/tree/{{ site.branch }}/images/triaxial-accelerometer-module.jpg)|
+| Tri-axial Accelerometer  | ![3D Accelerometer]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/triaxial-accelerometer-module.jpg?raw=true)|
 |:------------------------:|:------------------------:|
-| GPS Receiver Module      | ![GPS Receiver]({{ site.repository-path }}/tree/{{ site.branch }}/images/gps-receiver-module.jpg)|
+| GPS Receiver Module      | ![GPS Receiver]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/gps-receiver-module.jpg?raw=true)|
 
 
 
