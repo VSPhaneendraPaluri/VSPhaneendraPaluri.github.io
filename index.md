@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/word-art.png)
+![]({{ site.repository-path }}/VSPhaneendraPaluri.github.io/blob/{{ site.branch }}/images/word-art.png?raw=true)
