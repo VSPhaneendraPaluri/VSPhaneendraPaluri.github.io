@@ -16,9 +16,11 @@ Few of these are specially created lab-sessions.  The sessions listed over here 
 
 # My Projects
 
-You might want to checkout my different projects mentioned below.
+You might want to checkout my different projects mentioned below. :smile:
 
-1. [learn-cmake](/cmakeforneophytes)
-2. [learn-py3](/learn-py3)
-3. [package-management-systems](/packmansys)
-4. [Build Your Custom Virtual Platforms (VPs)](/buildyourVPs)
+| Repository Name | Brief Overview |
+|: ------------------------- :|: ------------------------- :|
+|[cmakeforneophytes](/cmakeforneophytes)| {::nomarkdown}<ul><li>Templates illustrating Modern CMake usage</li><li>CMake modules preparation</li><li>Integration with <i><b>nuget</b></i> packages</li></ul>{:/} |
+|[learn-py3](/learn-py3)| {::nomarkdown}<ul><li>Learn Py3 using documentation based testing</li><li>Testing using Python Unittest Framework</li><li>Testing using Python's PyTest Framework</li><li>Python Testing Strategies using <i><b>unittest.mock</i></b> library</li></ul>{:/} |
+|[packmansys](/packmansys)|{::nomarkdown}<ul><li>Introduction to <i><b>Co-App</b></i> Tools Usage</li><li>Creation of nuget packages, uploading to nuget.org server</li></ul>{:/} |
+|[buildyourVPs](/buildyourVPs)|{::nomarkdown}<ul><li>About EDA Industry</li></ul>{:/} |

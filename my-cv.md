@@ -15,7 +15,7 @@ permalink: /my-cv/
   - <i>Electronics and Communications Engineering</i>, C V R College of Engineering [Class 2007]<br>
 
 
-## <u>Event Participations</u>
+## <u>Conference Participations</u>
 - <b>Event</b>   : DVCON India, 2014<br>
   <b>Tutorial</b>: SystemC-AMS based methodologies for the design and verification of heterogeneous systems<br>
   <b>Session</b> : Overview of SystemC-AMS<br>
@@ -25,13 +25,18 @@ permalink: /my-cv/
   <b>Paper</b>   : Co-Author for 'AXI4 Protocol Development Using HLS Tool'<br>
 
 - <b>Event</b>   : ISCUG, 2012<br>
-  <b>Tutorial</b>: The New SystemC Standard - IEEE 1666-2011
+  <b>Tutorial</b>: The New SystemC Standard - IEEE 1666-2011<br>
   <b>Session</b> : Speaker for 'Accellera SystemC-CCI Working Group Updates'<br>
   <b>Link</b>    : [ISCUG 2012: Agenda](http://www.iscug.net/2012-agenda)
 
+
 ## <u>Domains Interests</u>
-  - Virtual Prototying
+  - Virtual Prototying & Co-Simulations
   - Defence Robotics
 
+
+## <u>Contact Information</u>
+ - <b>Email</b>: pvs.myworks@gmail.com
+ - <b>LinkedIn:</b> [https://www.linkedin.com/in/pvsphaneendra](https://www.linkedin.com/in/pvsphaneendra/)
 
 
