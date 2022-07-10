@@ -25,6 +25,7 @@ During my free time, I explore various technologies and upcoming trends. Am an a
 
 ## <u>Domains Interests</u>
   - Virtual Prototying & Co-Simulations
+  - CPU Architectures
   - Robotics, AI
 
 
