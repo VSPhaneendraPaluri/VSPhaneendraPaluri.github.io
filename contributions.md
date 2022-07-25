@@ -21,7 +21,7 @@ You might want to checkout my different projects mentioned below. :smile:
 | Repository Name | Brief Overview |
 |: ------------------------- :|: ------------------------- :|
 |[cmakeforneophytes](/cmakeforneophytes)| {::nomarkdown}<ul><li>Templates illustrating Modern CMake usage</li><li>CMake modules preparation</li><li>Integration with <i><b>nuget</b></i> packages</li></ul>{:/} |
-|[learn-cpp](/learn-cpp)| {::nomarkdown}Learn CPP using <b>CMake + Conan</b> integration.  List of projects available<ul><li>Design Patterns</li></ul>{:/} |
+|[learn-cpp](/learn-cpp)| {::nomarkdown}Learn CPP using <b>CMake + Conan</b> integration.  List of projects available<ul><li>Design Patterns</li><li>Performance Benchmarking</li></ul>{:/} |
 |[learn-py3](/learn-py3)| {::nomarkdown}<ul><li>Learn Py3 using documentation based testing</li><li>Testing using Python Unittest Framework</li><li>Testing using Python's PyTest Framework</li><li>Python Testing Strategies using <i><b>unittest.mock</i></b> library</li></ul>{:/} |
 |[packmansys](/packmansys)|{::nomarkdown}<ul><li>Introduction to <i><b>Co-App</b></i> Tools Usage</li><li>Creation of nuget packages, uploading to nuget.org server</li></ul>{:/} |
 |[buildyourVPs](/buildyourVPs)|{::nomarkdown}<ul><li>About EDA Industry</li></ul>{:/} |
